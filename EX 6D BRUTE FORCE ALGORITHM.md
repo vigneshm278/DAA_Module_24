@@ -21,8 +21,8 @@ To write a python program using brute force method of searching for the given su
 To implement the program using brute force method of searching for the given substring in the main string.
 
 
-Developed by: ESHWAR T
-Register Number:  212223230054
+Developed by: Vignesh M
+Register Number: 212223240176
 */
 ```
 ```
